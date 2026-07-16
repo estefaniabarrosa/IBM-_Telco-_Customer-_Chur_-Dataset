@@ -271,8 +271,6 @@ Suggested dashboards:
 - Before and after SMOTE
 - Feature importance
 
-[View the interactive Tableau dashboard](YOUR_TABLEAU_PUBLIC_URL)
-
 ---
 
 ## Tools and Technologies
