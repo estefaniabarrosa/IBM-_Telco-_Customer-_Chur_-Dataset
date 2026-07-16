@@ -234,7 +234,6 @@ The project exports three datasets:
 - `tableau_customer_predictions.csv`
 - `tableau_feature_importance.csv`
 
-Suggested dashboards:
 
 ### Dashboard 1 — Churn Risk Overview
 
